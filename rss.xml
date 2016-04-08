@@ -4,7 +4,7 @@
         <description><![CDATA[JPL Accountants]]></description>
         <link>https://thegrid.ai/jpl-accountants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 15:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 15:04:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jpl-accountants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>chrome-extension://pejkokffkapolfffcgbmdmhdelanoaih/src/override/override.html</link>
             <guid isPermaLink="false">662e53e5-9278-44d0-a0e0-e47aa5a0b0e6</guid>
             <pubDate>Fri, 08 Apr 2016 14:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2faede9-c1af-4869-8973-197c98e67a5a.jpg">]]></description>
-            <link>https://thegrid.ai/jpl-accountants/in-everything-we-do-we-believe-in-doing-things-differently/index.html</link>
-            <guid isPermaLink="false">1aafa1a9-53c9-4c4b-9b53-5ddea7a5ed48</guid>
-            <pubDate>Fri, 08 Apr 2016 14:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
