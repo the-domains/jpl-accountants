@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-08T15:01:13.873Z'
-dateModified: '2016-04-08T15:01:10.470Z'
+datePublished: '2016-04-08T15:06:25.417Z'
+dateModified: '2016-04-08T15:01:21.290Z'
 title: "Life is a challenge - Don't work away from it"
 author: []
 authors: []
