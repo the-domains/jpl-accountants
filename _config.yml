@@ -1,0 +1,28 @@
+name: JPL Accountants
+favicon: null
+layout_spectrum: 0.7989068175666034
+typography_spectrum: 0.32223106594756246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.843664598884061
+  lightness: 0.25045102229341865
+  saturation: 0.7104677292518318
+  rhythmicContrast: 0.7434320957399905
+purpose: []
