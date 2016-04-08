@@ -6,20 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In everything we do, we believe in challenging convention, we believe in thinking differently. The way we challenge convention is to design beautifully customised Accounting Packages, which are innovative, easy to understand, and customer friendly.'
-datePublished: '2016-04-08T04:58:17.591Z'
-dateModified: '2016-04-08T04:58:13.801Z'
+datePublished: '2016-04-08T14:15:37.327Z'
+dateModified: '2016-04-08T14:15:23.964Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-08-in-everything-we-do-we-believe-in-challenging-convention-w.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-in-everything-we-do-we-believe-in-challenging-convention-w.md
-published: true
 url: in-everything-we-do-we-believe-in-challenging-convention-w/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3ba5b7c-6fa6-47d2-8e4b-37886c69fcbb.jpg)
+
 In everything we do, we believe in challenging convention, we believe in thinking differently. The way we challenge convention is to design beautifully customised Accounting Packages, which are innovative, easy to understand, and customer friendly.
