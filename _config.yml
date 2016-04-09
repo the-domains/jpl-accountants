@@ -1,4 +1,4 @@
-name: JPL Accountants
+name: JPL Accountants and Financial Planners
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75037
@@ -22,7 +22,7 @@ color:
     - '#a6a6a6'
     - '#38b1c5'
     - '#393939'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.75
   saturation: 0.8125
   rhythmicContrast: 0.75
