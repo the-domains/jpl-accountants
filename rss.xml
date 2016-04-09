@@ -4,7 +4,7 @@
         <description><![CDATA[JPL Accountants]]></description>
         <link>https://thegrid.ai/jpl-accountants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 12:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 13:14:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jpl-accountants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jpl-accountants/in-everything-we-do-we-believe-in-challenging-convention-w/index.html</link>
             <guid isPermaLink="false">a3d24369-57c1-483a-be20-8580f37289f7</guid>
             <pubDate>Fri, 08 Apr 2016 15:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Services]]></title>
+            <description><![CDATA[<article><h1>Our Services</h1><p>We help clients create and design a package of accounting services that suit their business and budget. The packages are underpinned by recommended cloud technology that makes accounting easy and stress free.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b97ddee-fea9-47c4-a859-23f33ed197be.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jpl-accountants/our-services/index.html</link>
+            <guid isPermaLink="false">88fb10ef-4e4f-4f64-b7b4-f1f1486034f0</guid>
+            <pubDate>Sat, 09 Apr 2016 13:13:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
