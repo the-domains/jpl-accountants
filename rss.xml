@@ -4,7 +4,7 @@
         <description><![CDATA[JPL Accountants]]></description>
         <link>https://thegrid.ai/jpl-accountants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 12:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 12:55:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jpl-accountants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/jpl-accountants/our-mission-statement/index.html</link>
             <guid isPermaLink="false">313c5b66-589e-4d16-80eb-7e1fc9fba410</guid>
             <pubDate>Sat, 09 Apr 2016 03:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://images.unsplash.com/photo-1428836962997-9533e673a68f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ba491f1d44844307dc7b2df3ee15f98d">]]></description>
-            <link>chrome-extension://pejkokffkapolfffcgbmdmhdelanoaih/src/override/override.html</link>
-            <guid isPermaLink="false">662e53e5-9278-44d0-a0e0-e47aa5a0b0e6</guid>
-            <pubDate>Fri, 08 Apr 2016 14:46:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
