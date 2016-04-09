@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: We help clients create and design a package of accounting services that suit their business and budget. The packages are underpinned by recommended cloud technology that makes accounting easy and stress free.
-datePublished: '2016-04-09T13:24:42.275Z'
-dateModified: '2016-04-09T13:24:41.265Z'
+datePublished: '2016-04-09T13:27:32.926Z'
+dateModified: '2016-04-09T13:25:13.398Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-04-09-our-services.md
@@ -34,3 +34,4 @@ We help clients create and design a package of accounting services that suit the
 * Management reporting
 * Virtual CEO services
 * Business Advisory
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c983e48-c58a-4f38-b3bd-df0125a5498d.jpg)
