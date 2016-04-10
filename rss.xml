@@ -4,7 +4,7 @@
         <description><![CDATA[JPL Accountants and Financial Planners]]></description>
         <link>https://thegrid.ai/jpl-accountants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 06:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 07:47:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jpl-accountants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our Mission Statement]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/jpl-accountants/our-services/index.html</link>
             <guid isPermaLink="false">88fb10ef-4e4f-4f64-b7b4-f1f1486034f0</guid>
             <pubDate>Sun, 10 Apr 2016 06:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commercial property outperforms shares, but analysts warn of a bust]]></title>
+            <description><![CDATA[<article><h1>Commercial property outperforms shares, but analysts warn of a bust</h1><p>Commercial property trusts have outperformed the share market by 50 per cent over the past five years, but analysts are warning that trend may reverse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/339ed1e9500ede3b27d92af5a8ac9ab0e4ac7730.jpg"></article>]]></description>
+            <link>http://www.abc.net.au/news/2016-04-08/commercial-property-trusts-outperform-shares/7311186?section=business</link>
+            <guid isPermaLink="false">ec31adcf-9a03-4121-9f9f-4021816d9305</guid>
+            <pubDate>Sun, 10 Apr 2016 07:46:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
