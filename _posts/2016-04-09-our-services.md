@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: We help clients create and design a package of accounting services that suit their business and budget. The packages are underpinned by recommended cloud technology that makes accounting easy and stress free.
-datePublished: '2016-04-10T12:36:37.044Z'
-dateModified: '2016-04-10T12:32:32.358Z'
+description: We help clients create and design a package of accounting services that suit their business and budget. Our packages are underpinned by savvy cloud technology making accounting easy and stress free.
+datePublished: '2016-04-10T12:52:28.288Z'
+dateModified: '2016-04-10T12:36:41.954Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-04-09-our-services.md
