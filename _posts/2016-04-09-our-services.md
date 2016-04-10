@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: We help clients create and design a package of accounting services that suit their business and budget. The packages are underpinned by recommended cloud technology that makes accounting easy and stress free.
-datePublished: '2016-04-10T12:30:56.191Z'
-dateModified: '2016-04-10T12:30:40.076Z'
+datePublished: '2016-04-10T12:36:37.044Z'
+dateModified: '2016-04-10T12:32:32.358Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-04-09-our-services.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-services/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Our Services
