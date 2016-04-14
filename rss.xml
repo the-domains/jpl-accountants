@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JPL ACCOUNTANTS]]></title>
         <description><![CDATA[JPL ACCOUNTANTS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jpl-accountants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 12:07:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 12:25:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jpl-accountants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Government flags tax increases for May budget]]></title>
+            <description><![CDATA[<article><h1>Government flags tax increases for May budget</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af29638f5393bd9b0dfd505091a3eba2e98be2e.jpg"></article>]]></description>
+            <link>http://www.abc.net.au/news/2016-04-14/government-flags-tax-increases-for-may-budget/7327782</link>
+            <guid isPermaLink="false">3ebe338a-a093-480c-9fa1-26f3a2fdff88</guid>
+            <pubDate>Thu, 14 Apr 2016 12:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>Our firm has been in professional practice for over 20 years and continue to grow strong. In that time we have seen vast changes in the tax and accounting world. From the introduction of GST in 2000 to more the recent $20,000.00 capital write off for small business, we have provided the neccessary advice to our clients to keep them well informed. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c32e95b96534c881ce8e54ef433a139d9e8fa4.jpg"></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/jpl-accountants/about-us/index.html</link>
             <guid isPermaLink="false">b2e5fefa-4a6b-4537-b5ed-9eda77475f6f</guid>
             <pubDate>Thu, 14 Apr 2016 12:07:11 GMT</pubDate>
         </item>
