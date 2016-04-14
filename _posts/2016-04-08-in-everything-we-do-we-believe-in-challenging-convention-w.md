@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'In everything we do, we believe in challenging convention, we believe in thinking differently. The way we challenge convention is to design beautifully customised Accounting Packages, which are innovative, easy to understand, and customer friendly.'
-datePublished: '2016-04-14T12:05:48.677Z'
-dateModified: '2016-04-14T12:05:28.583Z'
+datePublished: '2016-04-14T12:35:07.965Z'
+dateModified: '2016-04-14T12:05:58.296Z'
 title: Our Mission Statement
 author: []
 sourcePath: _posts/2016-04-08-in-everything-we-do-we-believe-in-challenging-convention-w.md
